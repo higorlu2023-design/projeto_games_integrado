@@ -32,3 +32,14 @@ Quantos jogos foram lançados a cada ano e quais anos possuem dados suficientes 
 
 - Quais regiões e plataformas devem ser priorizadas em uma possível campanha para uma continuação de Grand Theft Auto V?
 
+Testes de hipóteses
+
+Também foram realizados dois testes de hipótese, utilizando nível de significância de 5% (α = 0,05):
+
+- As classificações médias dos usuários das plataformas XOne e PC são iguais?
+H₀: a média das avaliações dos usuários da XOne é igual à média das avaliações dos usuários da PC.
+H₁: a média das avaliações dos usuários da XOne é diferente da média das avaliações dos usuários da PC.
+
+- As classificações médias dos usuários dos gêneros Ação e Esportes são diferentes?
+H₀: a média das avaliações dos usuários dos jogos de Ação é igual à média das avaliações dos jogos de Esportes.
+H₁: a média das avaliações dos usuários dos jogos de Ação é diferente da média das avaliações dos jogos de Esportes.
